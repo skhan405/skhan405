@@ -2,7 +2,7 @@ Name: Shayaan Khan
 
 Section: OPS435NBB
 
-some sort of change
+
 <!--
 **skhan405/skhan405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
