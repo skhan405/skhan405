@@ -1,4 +1,5 @@
-Name: Shayaan Khan\n
+Name: Shayaan Khan
+
 Section: OPS435NBB
 <!--
 **skhan405/skhan405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
